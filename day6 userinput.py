@@ -1,0 +1,8 @@
+a=input()
+print(a)
+b=input("enter your name =")
+print("my name is=",b)
+d=input("enter your number1:")
+e=input("enter your number2:")
+#print(d+e)
+print(int(d)+int(e))
